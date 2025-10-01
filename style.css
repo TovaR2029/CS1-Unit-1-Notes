@@ -1,1 +1,16 @@
-
+body {
+    background: rgb(233, 186, 252);
+}
+/* Select by TAG type */
+p {
+    color: darkblue;
+    background: lightblue;
+}
+/* Select by ID name (unique) */
+#tova {
+    background: yellow;
+}
+/* Select by CLASS name (shared styles) */
+.uniform {
+    color: red;
+}
