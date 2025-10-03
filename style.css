@@ -14,3 +14,11 @@ p {
 .uniform {
     color: red;
 }
+h1 {
+    color: lightcyan;
+    font-weight: 200;
+    font-style: italic;
+    font-size: 32px;
+    font-family: Impact;
+    text-align: center;
+}
