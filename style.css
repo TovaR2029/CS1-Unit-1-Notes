@@ -8,11 +8,11 @@ p {
 }
 /* Select by ID name (unique) */
 #tova {
-    background: yellow;
+    background: turquoise;
 }
 /* Select by CLASS name (shared styles) */
 .uniform {
-    color: red;
+    color: yellow;
 }
 h1 {
     color: lightcyan;
@@ -21,4 +21,28 @@ h1 {
     font-size: 32px;
     font-family: Impact;
     text-align: center;
+}
+
+/* "comment-out" code
+* {
+    border: 2px solid red;
+}
+*/
+#tova {
+    border: 10px dashed hotpink;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+.centered {
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    border-width: 8px;
+    border-style: double;
+    border-color: darkblue;
 }
